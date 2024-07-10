@@ -14,7 +14,6 @@ Insert bio here
 All of my projects are available at https://github.com/michaeltwersky/Data_Projects_TripleTen  
   
 
-<br/>  
 
 
 ## Connect with me  
