@@ -60,6 +60,3 @@ All of my projects are available at https://github.com/michaeltwersky/Data_Proje
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
