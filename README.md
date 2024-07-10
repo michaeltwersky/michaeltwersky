@@ -4,15 +4,9 @@
 ### <div align="center">A passionate data scientist from New York, NY</div>  
   
 
-Insert bio here  
+- 👨‍💻 All of my projects are available at https://github.com/michaeltwersky/Data_Projects_TripleTen
   
-
-<br/>  
-
-
-## Projects  
-All of my projects are available at https://github.com/michaeltwersky/Data_Projects_TripleTen  
-  
+- 📫 How to reach me **mike.twersky@gmail.com** 
 
 
 
