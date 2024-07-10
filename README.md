@@ -33,7 +33,7 @@ All of my projects are available at https://github.com/michaeltwersky/Data_Proje
 
 
 ## Languages and Tools  
-<div align="center">  
+<div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="40" /></a> 
 <a href="https://numpy.org/doc/stable/index.html" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="40" /></a> 
@@ -45,7 +45,6 @@ All of my projects are available at https://github.com/michaeltwersky/Data_Proje
 <a href="https://matplotlib.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Matplotlib" height="40" /></a> 
 <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="Seaborn" height="40" /></a> 
 <a href="https://plotly.com/python/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/5997976?s=160&v=4" alt="Plotly" height="40" /></a> 
-    <br/>  
 <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank"><img style="margin: 10px" src="https://github.com/mattamx/mattamx/assets/107958646/b7c067c6-e0ae-4bd1-96b6-53c16bcb8e58" alt="PySpark" height="40" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://github.com/mattamx/mattamx/assets/107958646/a0a86912-b8af-4c4d-aa1c-1c5c44b4da7c" alt="PostgreSQL" height="40" /></a> 
 <a href="https://dataengineering.wiki/Tools/SQL" target="_blank"><img style="margin: 10px" src="https://github.com/mattamx/mattamx/assets/107958646/7502d57f-b9c8-4971-a2dc-42c05ee240c4" alt="SQL" height="40" /></a>  
