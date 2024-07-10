@@ -53,7 +53,8 @@ All of my projects are available at https://github.com/michaeltwersky/Data_Proje
 </div>  
 
 <br/>  
-
+<br/>  
+<br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=michaeltwersky&&style=flat-square" align="center" />
 </div>  
