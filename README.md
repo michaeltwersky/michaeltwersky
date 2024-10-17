@@ -3,7 +3,7 @@
 
 ### <div align="center">A passionate data scientist from New York, NY</div>  
   
-- 🌱 I’m currently doing an Externship with Supernova MGU
+- 🌱 I’m currently doing an Externship with kippy.ai
 
 - 👨‍💻 All of my projects are available at https://github.com/michaeltwersky/Data_Projects_TripleTen
   
