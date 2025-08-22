@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/michaeltwersky/Data_Projects_TripleTen
   
-- 📫 How to reach me **mike.twersky@gmail.com** 
+- 📫 How to reach me **mdt93@cornell.edu** 
 
 
 
