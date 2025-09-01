@@ -3,7 +3,7 @@
 
 ### <div align="center">A passionate data scientist from New York, NY</div>  
   
-- 🌱 I’m currently doing an Externship with kippy.ai
+- 🌱 I’m currently doing a MEng in Operations Research and Information Engineering at Cornell University
 
 - 👨‍💻 All of my projects are available at https://github.com/michaeltwersky/Data_Projects_TripleTen
   
